@@ -1,0 +1,1 @@
+[24-Sep-2018 17:26:10 UTC] PHP Fatal error:  Cannot use App\Mail as Mail because the name is already in use in /home/ubuntu/workspace/cms/app/Http/Controllers/MemberAddController.php on line 11
